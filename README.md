@@ -10,7 +10,7 @@ We wanted to render both the MRI dicoms and make an augmented display of contour
 We used pydom and matplot lib for rendering. We also developed some utility methods for loading nii data, converting nii labels into per-dicom/slice contours, used matplotlib and shapely to augment the dicom display, and used ffmpeg to convert plots images into an mp4 video.
 
 ## Results *: What did we observe? Figures are great!*
-
+![example segmentations](https://i.ibb.co/cLgkhgG/example-contours.png)
 
 ## Conclusion/Discussion: 
 
